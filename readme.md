@@ -26,5 +26,5 @@ https://demo.twilio.com/welcome/sms/reply/
 
 を返すようなURLを設定した。
 
-https://kkato233.github.io/twilio-test/sms/result.xm
+https://kkato233.github.io/twilio-test/sms/result.xml
 
